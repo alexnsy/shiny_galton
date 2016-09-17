@@ -13,7 +13,7 @@ font-family: 'Helvetica'
 
 <div class="midcenter" style="margin-left:650px; margin-top:-130px;">
 <img src="icon.png"></img>
-</div>
+</div> 
 
 Introduction
 ========================================================
