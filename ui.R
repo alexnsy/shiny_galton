@@ -13,7 +13,7 @@ library(shiny)
 shinyUI(fluidPage(
 
   # Application title
-  titlePanel("Glaton: Predicting Child's Height from Parent's Height"),
+  titlePanel("Galton: Predicting Child's Height from Parent's Height"),
   
   
   tags$p("This web app will predict the height of children using the average height of the parents. 
